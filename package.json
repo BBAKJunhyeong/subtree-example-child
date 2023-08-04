@@ -1,0 +1,7 @@
+{
+  "name": "subtree-example-child",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BBAKJunHyeong <jay0913@hutom.co.kr>",
+  "license": "MIT"
+}
